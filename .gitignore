@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+code/qrcode/MDK-ARM/UnitQrcode
+code/bootloader/IAPTest_LL/IAPTest_LL/MDK-ARM/IAPTest_LL
